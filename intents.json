@@ -1,0 +1,26 @@
+{
+    "hello": "Hey there! It is so great to meet you. How can I help you today?",
+    "hi": "Hi! How is your coding going today?",
+    "morning": "Good morning! Time to grab some coffee and write some code.",
+    "night": "Good night! Remember to step away from the screen and rest those eyes.",
+    "bye": "Goodbye! Have an absolutely wonderful day!",
+    
+    "status": "All systems are humming along perfectly! We are good to go.",
+    "mission": "My mission is to be your friendly assistant and help you!",
+    "who are you": "I am a Rule-Based AI Chatbot, engineered as a White Box logic engine!",
+    "creator": "I was engineered by Ziad Basem El Gamal, a top-performing student.",
+    "how are you": "I am operating at 100% algorithmic efficiency and feeling great. Thanks for asking!",
+    
+    "python": "Python is fantastic! It is my favorite tool for data extraction and automation scripts.",
+    "c++": "Ah, C++! An absolute powerhouse for competitive programming and high-performance algorithms.",
+    "java": "Java is a classic! Write once, run anywhere. Great for enterprise-level applications.",
+    "html": "HTML is the skeleton of the web! But remember, it is a markup language, not a programming language! 😉",
+    "git": "Git is a lifesaver! Always remember to commit your code often.",
+    
+    "debugging": "Debugging is like being the detective in a crime movie where you are also the murderer. Don't give up!",
+    "error": "Don't panic! Good developers don't memorize; they understand logic and Google the syntax. Read the error message carefully!",
+    "ai": "Artificial Intelligence is fascinating! Right now I run on deterministic rules, but soon you will be building neural networks.",
+    
+    "joke": "Why do programmers prefer dark mode? Because light attracts bugs! Haha!",
+    "help": "I would love to help! You can ask about my creator, talk about Python, or ask for a programming joke."
+}
